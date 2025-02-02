@@ -1,11 +1,4 @@
 # Ignore directories
-node_modules/
-dist/
-build/
-tmp/
-logs/
-coverage/
-.DS_Store
-.env
+
 venv/
 virt/
