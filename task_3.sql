@@ -1,1 +1,1 @@
-SELECT * FROM Books;
+SHOW TABLES;
